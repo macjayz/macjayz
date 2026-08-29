@@ -47,14 +47,6 @@ Git · GitHub · Docker · CI/CD
 
 ## 📌 Featured Projects
 
-### 🔹 Agricultural Marketplace
-
-A full-stack marketplace designed to connect farmers, buyers, and middlemen while providing greater visibility across the agricultural supply chain.
-
-**Focus:** Marketplace architecture · APIs · Web3 integration · Supply-chain tracking
-
----
-
 ### 🔹 ERC-20 Analytics Dashboard
 
 An on-chain analytics dashboard built with Dune SQL for analyzing token transfers, wallet activity, liquidity movements, and other ERC-20 metrics.
@@ -90,4 +82,4 @@ I'm actively building in the Web3 ecosystem, with experience exploring:
 
 I'm open to software engineering opportunities, interesting technical projects, and selected Web3 opportunities.
 
-<!-- Add your links here -->
+
